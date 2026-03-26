@@ -157,6 +157,7 @@ behaviors:
     max_steps: 500000
     time_horizon: 64
     summary_freq: 10000
+```
 ### Output:
 
 <img width="908" height="923" alt="image" src="https://github.com/user-attachments/assets/14b10646-2fd8-4b84-8366-507f65a0f2db" />
